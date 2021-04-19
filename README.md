@@ -1,8 +1,10 @@
 # Epitopes4Cancer
 
-Project developed at SRTI in collaboration with [Brunhilde Felding](https://www.scripps.edu/faculty/felding-habermanni)> during 2015.
+Project developed at [SRTI](https://www.scripps.edu/science-and-medicine/translational-institute/) in collaboration with [Ali Torkamani](https://www.scripps.edu/faculty/torkamani/), [Brunhilde Felding](https://www.scripps.edu/faculty/felding-habermanni)> and [Vaughn Smider](https://www.scripps.edu/faculty/smider/) during 2015.
 
-The objective was finding potential epitopes in public cancer data.
+The objective was finding potential epitopes (in public repositories for cancer) for antibody-based cancer treatment.
+
+We used COSMIC database and ranked its variants according to several parameters, such as if a given mutation was in a Cysteine-rich regioni, or their distance from a transmembtane region.
 
 See the results at:
 
