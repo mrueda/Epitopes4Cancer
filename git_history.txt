@@ -1,0 +1,7 @@
+git init
+git add .
+git remote add origin https://github.com/mrueda/Epitopes4Cancer
+git config --global user.email "rueda.manu@gmail.com"
+git config --global user.name "Manuel Rueda"
+git commit -m 'Source commit'
+git push -f origin HEAD:main # -f forces
