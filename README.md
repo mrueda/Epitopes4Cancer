@@ -6,6 +6,5 @@ The objective was to find  potential epitopes (in public repositories for cancer
 
 We used [COSMIC](https://cancer.sanger.ac.uk/cosmic) database and ranked its variants according to several parameters, such as if a given mutation was in a Cysteine-rich region, or their distance from a transmembrane region.
 
-See the results at:
-
+See the final results in HTML format here:
 <https://mrueda.github.io/Epitopes4Cancer>
